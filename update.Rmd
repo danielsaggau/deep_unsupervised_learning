@@ -1,0 +1,35 @@
+---
+title: "BLEURT"
+author: "Daniel Saggau"
+date: "5/27/2021"
+citation_package: --biblatex
+output: 
+  beamer_presentation:
+    theme: Madrid
+header-includes:
+- \definecolor{UBCblue}{rgb}{0.04706, 0.13725, 0.26667}
+- \usecolortheme[named=UBCblue]{structure}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Evaluation Metrics
+
+**Fully learned Metrics**
+
+- RUSE 
+- ESIM
+
+**Hybrid Metrics**
+
+- YiSi
+- BERTScore
+
+
+
+# BLEURT 
+
+# 
