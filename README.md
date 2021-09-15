@@ -35,3 +35,11 @@ I also link that and many other reference notebooks in the bin folder.
 Code for the plots can be found in the  paper folder
 
 # Bin 
+
+This folder contains all reference notebooks i used.
+
+# Further Direction 
+
+I would love to apply this combined method of bidirectional decoding and long sequence summarization via sparse attention in further research and potentially apply it to a shared task such as laysumm2020.
+
+
