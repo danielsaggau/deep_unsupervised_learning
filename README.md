@@ -2,6 +2,16 @@
 
 Find the code for the results in the folder Models.
 
+
+# Data
+
+Abductive Reasoning Datasource:
+http://abductivecommonsense.xyz
+
+Counterfactual Data: 
+
+https://paperswithcode.com/dataset/timetravel
+
 # Commonsense Reasoning 
 
 Delorean entails code for the two tasks namely abductive reasoning. 
