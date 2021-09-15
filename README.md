@@ -36,6 +36,7 @@ This is a reason why there are some difference also with respect to the scaling 
 
 I report the ROGUE and BLEURT Scores for the models for the summarization. 
 You can find the respective CSV with the results folder for the respective model.
+When i write down BigBird, i refer to BigBird-Pegasus large of the respective fine tuned checkpoint.
 
 |  | ROUGE-1 | ROUGE-2 | ROUGE-L | Bleurt |
 | :--- | :---: | :---: | :---: | :---: |
