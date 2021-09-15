@@ -19,7 +19,20 @@ Delorean entails code for the two tasks namely abductive reasoning.
 The main delorean decoding notebook can be found in the DeLorean.ipynb file. 
 Code can be found in the commonsense folder.
 
-# Results 
+Note that there is no offical code for the evaluation and the repo only contains code untill the ranking step. 
+This is a reason why there are some difference also with respect to the scaling of the scores. 
+
+|  | ROUGE-L | BertScore | Bleurt |
+| :--- | :---: | :---: | :---: |
+| TimeTravel |  |  |  |
+| Reported DeLorean | 40.73 | 63.36 | - |
+| Replicated DeLorean (Non-Deprecated) | 31.19 | 0.886 | -.8552 |
+| Art |  |  |  |
+| Reported DeLorean | 18.94 | 42.86 | - |
+| Replicated DeLorean (Non-Deprecated) | 17.89 | 0.874 | -0.970 |
+
+
+# Text Summarizations
 
 I report the ROGUE and BLEURT Scores for the models for the summarization. 
 You can find the respective CSV with the results folder for the respective model.
@@ -47,7 +60,6 @@ You can find the respective CSV with the results folder for the respective model
 | BigBird Arxiv + Ngram-Penalty | 22.22 | 03.24 | 13.20 | -0.9698 |
 | BigBird Big Patent + Sampling + Repetition Penalty | 26.47 | 09.38 | 18.94 | -0.724 |
 
-# Text Summarizations
 
 I include a few notebooks i used.
 To reproduce, Arxiv one needs to make some changes in the pubmed notebook. 
