@@ -26,7 +26,8 @@ You can find the respective CSV with the results folder for the respective model
 # Text Summarizations
 
 I include a few notebooks i used.
-For arxiv i made dynamic changes and comments on how to reproduce in top_p notebooks.
+To reproduce, Arxiv one needs to make some changes in the pubmed notebook. 
+Instructions are provided in the notebook itself.
 All the notesbokes beavily built on the pegasus_evaluation notebook which was published by the authors of bigbord. 
 I also link that and many other reference notebooks in the bin folder. 
 
