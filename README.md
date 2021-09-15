@@ -1,7 +1,8 @@
 # deep_unsupervised_learning
 
-Find the code for the results in the folder Models.
+Note that this code is pre-dominately based on existing reposities:
 
+For the BigBird Model I use pegasus_evaluation.ipynb which i added in the bin repo and for the counterfactual reasoning i use the official repo: https://github.com/qkaren/unsup_gen_for_cms_reasoning.
 
 # Data
 
