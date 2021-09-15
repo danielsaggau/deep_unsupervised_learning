@@ -15,11 +15,12 @@ https://paperswithcode.com/dataset/timetravel
 # Commonsense Reasoning 
 
 Delorean entails code for the two tasks namely abductive reasoning. 
-The main delorean decoding notebook can be found in the DeLorean.ipytb file. 
+The main delorean decoding notebook can be found in the DeLorean.ipynb file. 
+Code can be found in the commonsense folder.
 
 # Results 
 
-I report the ROGUE and BLEURT Scores for the models. 
+I report the ROGUE and BLEURT Scores for the models for the summarization. 
 You can find the respective CSV with the results folder for the respective model.
 
 # Text Summarizations
