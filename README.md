@@ -66,7 +66,7 @@ The table reports the F1 measures
 I include a few notebooks i used.
 To reproduce, Arxiv one needs to make some changes in the pubmed notebook. 
 Instructions are provided in the notebook itself.
-All the notesbokes beavily built on the pegasus_evaluation notebook which was published by the authors of bigbord. 
+All the notesbokes heavily built on the pegasus_evaluation notebook which was published by the authors of bigbord. 
 I also link that and many other reference notebooks in the bin folder. 
 
 # Plots 
